@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+transformers
+torch
+tqdm
+rapidfuzz
+jupyter
+pyarrow
