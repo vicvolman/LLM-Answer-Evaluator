@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="roles" attr.type="string"/>
+<key id="d1" for="node" attr.name="ntype" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="SUB::Economics">
+  <data key="d0">Economics</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="EDU::Bachelor in Business Administration">
+  <data key="d0">Bachelor in Business Administration</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="ORG::Academic Ba">
+  <data key="d0">Academic Ba</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="PROF::483">
+  <data key="d0">Professor 483</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::43">
+  <data key="d0">Professor 43</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::1045">
+  <data key="d0">Professor 1045</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="LOC::Portugal">
+  <data key="d0">Portugal</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="PROF::162">
+  <data key="d0">Professor 162</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="EDU::PhD">
+  <data key="d0">PhD</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="EDU::MBA">
+  <data key="d0">MBA</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="PROF::1068">
+  <data key="d0">Professor 1068</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="ORG::Universidad Complutense de Madrid">
+  <data key="d0">Universidad Complutense de Madrid</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="ORG::Universidad Complutense">
+  <data key="d0">Universidad Complutense</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="SUB::Laws">
+  <data key="d0">Laws</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="PROF::37">
+  <data key="d0">Professor 37</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::993">
+  <data key="d0">Professor 993</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="SUB::Management">
+  <data key="d0">Management</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="EDU::LLM">
+  <data key="d0">LLM</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="PROF::1040">
+  <data key="d0">Professor 1040</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::684">
+  <data key="d0">Professor 684</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="SUB::Business Administration">
+  <data key="d0">Business Administration</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="EDU::LL.M">
+  <data key="d0">LL.M</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="ORG::Universidad Politécnica De Madrid">
+  <data key="d0">Universidad Politécnica De Madrid</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="LOC::United States">
+  <data key="d0">United States</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="EDU::MSc">
+  <data key="d0">MSc</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="EDU::Ph.D">
+  <data key="d0">Ph.D</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="LOC::Germany">
+  <data key="d0">Germany</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="EDU::B.A">
+  <data key="d0">B.A</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="LOC::New York">
+  <data key="d0">New York</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="PROF::252">
+  <data key="d0">Professor 252</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::339">
+  <data key="d0">Professor 339</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="LOC::Madrid">
+  <data key="d0">Madrid</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="PROF::357">
+  <data key="d0">Professor 357</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="ORG::Academic Bac">
+  <data key="d0">Academic Bac</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="ORG::Universidad Pontificia Comillas">
+  <data key="d0">Universidad Pontificia Comillas</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="EDU::M.Sc">
+  <data key="d0">M.Sc</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="PROF::153">
+  <data key="d0">Professor 153</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="LOC::London">
+  <data key="d0">London</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="PROF::367">
+  <data key="d0">Professor 367</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="LOC::Spain">
+  <data key="d0">Spain</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="LOC::France">
+  <data key="d0">France</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="ORG::Harvard University">
+  <data key="d0">Harvard University</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="PROF::45">
+  <data key="d0">Professor 45</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="ORG::IESE Business School">
+  <data key="d0">IESE Business School</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="EDU::BSc">
+  <data key="d0">BSc</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="ORG::Universidad Autónoma De Madrid">
+  <data key="d0">Universidad Autónoma De Madrid</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="PROF::862">
+  <data key="d0">Professor 862</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::801">
+  <data key="d0">Professor 801</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF::215">
+  <data key="d0">Professor 215</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="EDU::M.A">
+  <data key="d0">M.A</data>
+  <data key="d1">EDU</data>
+</node>
+<edge source="SUB::Economics" target="PROF::153">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="EDU::Bachelor in Business Administration" target="PROF::862">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="ORG::Academic Ba" target="PROF::252">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="ORG::Academic Ba" target="PROF::357">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="ORG::Academic Ba" target="PROF::367">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="ORG::Academic Ba" target="PROF::684">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::483" target="LOC::Portugal">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::483" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::483" target="EDU::PhD">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::483" target="SUB::Business Administration">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="PROF::43" target="EDU::MBA">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::43" target="EDU::PhD">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::43" target="EDU::MSc">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::1045" target="ORG::IESE Business School">
+  <data key="d2">["CorporateOrg"]</data>
+</edge>
+<edge source="PROF::1045" target="LOC::Madrid">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::1045" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::1045" target="ORG::Harvard University">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::1045" target="SUB::Business Administration">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="LOC::Portugal" target="PROF::339">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::162" target="LOC::London">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::162" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::162" target="LOC::Madrid">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::162" target="EDU::MBA">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::162" target="EDU::Ph.D">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::162" target="EDU::M.Sc">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::PhD" target="PROF::357">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::PhD" target="PROF::801">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::PhD" target="PROF::1040">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::MBA" target="PROF::215">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::MBA" target="PROF::339">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::MBA" target="PROF::357">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::MBA" target="PROF::367">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::MBA" target="PROF::684">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::MBA" target="PROF::862">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::1068" target="LOC::London">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::1068" target="LOC::New York">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::1068" target="LOC::Madrid">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::1068" target="ORG::IESE Business School">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::1068" target="EDU::B.A">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::1068" target="SUB::Business Administration">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="ORG::Universidad Complutense de Madrid" target="PROF::37">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="ORG::Universidad Complutense de Madrid" target="PROF::801">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="SUB::Laws" target="PROF::45">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="SUB::Laws" target="PROF::215">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="SUB::Laws" target="PROF::993">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="PROF::37" target="ORG::Universidad Pontificia Comillas">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::37" target="EDU::LLM">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="PROF::993" target="LOC::United States">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::993" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::993" target="LOC::New York">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::993" target="LOC::Madrid">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::993" target="EDU::LL.M">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="SUB::Management" target="PROF::153">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="SUB::Management" target="PROF::357">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="PROF::684" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::684" target="LOC::United States">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::684" target="ORG::Universidad Politécnica De Madrid">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="SUB::Business Administration" target="PROF::357">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="SUB::Business Administration" target="PROF::367">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="SUB::Business Administration" target="PROF::862">
+  <data key="d2">["Subject"]</data>
+</edge>
+<edge source="EDU::LL.M" target="PROF::45">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::LL.M" target="PROF::215">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="ORG::Universidad Politécnica De Madrid" target="PROF::367">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="LOC::United States" target="PROF::252">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::United States" target="PROF::862">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="EDU::Ph.D" target="PROF::252">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::Ph.D" target="PROF::339">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::Ph.D" target="PROF::801">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="EDU::B.A" target="PROF::45">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="LOC::New York" target="PROF::339">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::New York" target="PROF::862">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::252" target="ORG::Harvard University">
+  <data key="d2">["AcademicOrg", "CorporateOrg"]</data>
+</edge>
+<edge source="PROF::252" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::339" target="LOC::London">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::339" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::339" target="LOC::Madrid">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::339" target="ORG::Harvard University">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::339" target="EDU::M.Sc">
+  <data key="d2">["Education"]</data>
+</edge>
+<edge source="LOC::Madrid" target="PROF::357">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::Madrid" target="PROF::367">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::Madrid" target="PROF::862">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::357" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::357" target="ORG::Harvard University">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::357" target="ORG::IESE Business School">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::357" target="ORG::Universidad Pontificia Comillas">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="ORG::Academic Bac" target="PROF::215">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="ORG::Universidad Pontificia Comillas" target="PROF::862">
+  <data key="d2">["AcademicOrg"]</data>
+</edge>
+<edge source="PROF::153" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::London" target="PROF::862">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="PROF::367" target="LOC::Spain">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::Spain" target="PROF::45">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::Spain" target="PROF::215">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="LOC::Spain" target="PROF::862">
+  <data key="d2">["CorporateLoc"]</data>
+</edge>
+<edge source="ORG::Harvard University" target="PROF::45">
+  <data key="d2">["CorporateOrg"]</data>
+</edge>
+<edge source="ORG::IESE Business School" target="PROF::801">
+  <data key="d2">["AcademicOrg", "CorporateOrg"]</data>
+</edge>
+</graph></graphml>

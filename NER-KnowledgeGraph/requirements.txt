@@ -9,3 +9,4 @@ tqdm
 rapidfuzz
 jupyter
 pyarrow
+lxml
