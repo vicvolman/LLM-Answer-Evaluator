@@ -3,173 +3,145 @@
 <key id="d2" for="edge" attr.name="label" attr.type="string"/>
 <key id="d1" for="node" attr.name="ntype" attr.type="string"/>
 <key id="d0" for="node" attr.name="label" attr.type="string"/>
-<graph edgedefault="directed"><node id="EDU:Bachelor in Business Administration">
-  <data key="d0">Bachelor in Business Administration</data>
+<graph edgedefault="directed"><node id="EDU:LL.M">
+  <data key="d0">LL.M</data>
   <data key="d1">EDU</data>
 </node>
-<node id="LOC:New York">
-  <data key="d0">New York</data>
-  <data key="d1">LOC</data>
+<node id="ORG:Universidad Complutense">
+  <data key="d0">Universidad Complutense</data>
+  <data key="d1">ORG</data>
 </node>
 <node id="LOC:Madrid">
   <data key="d0">Madrid</data>
   <data key="d1">LOC</data>
 </node>
-<node id="LOC:Germany">
-  <data key="d0">Germany</data>
+<node id="LOC:London">
+  <data key="d0">London</data>
   <data key="d1">LOC</data>
 </node>
-<node id="LOC:Spain">
-  <data key="d0">Spain</data>
-  <data key="d1">LOC</data>
-</node>
-<node id="SUBJECT:Business Administration">
-  <data key="d0">Business Administration</data>
-  <data key="d1">SUBJECT</data>
-</node>
-<node id="LOC:United States">
-  <data key="d0">United States</data>
-  <data key="d1">LOC</data>
-</node>
-<node id="PROF_339">
-  <data key="d0">Professor 339</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_252">
-  <data key="d0">Professor 252</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_45">
-  <data key="d0">Professor 45</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="EDU:MBA">
-  <data key="d0">MBA</data>
-  <data key="d1">EDU</data>
-</node>
-<node id="PROF_862">
-  <data key="d0">Professor 862</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_1040">
-  <data key="d0">Professor 1040</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="SUBJECT:Laws">
-  <data key="d0">Laws</data>
-  <data key="d1">SUBJECT</data>
-</node>
-<node id="EDU:MSc">
-  <data key="d0">MSc</data>
-  <data key="d1">EDU</data>
-</node>
-<node id="ORG:Universidad Pontificia Comillas">
-  <data key="d0">Universidad Pontificia Comillas</data>
-  <data key="d1">ORG</data>
-</node>
-<node id="EDU:B.A">
-  <data key="d0">B.A</data>
-  <data key="d1">EDU</data>
-</node>
-<node id="PROF_801">
-  <data key="d0">Professor 801</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_367">
-  <data key="d0">Professor 367</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_796">
-  <data key="d0">Professor 796</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_43">
-  <data key="d0">Professor 43</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_993">
-  <data key="d0">Professor 993</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="ORG:Academic Bac">
-  <data key="d0">Academic Bac</data>
-  <data key="d1">ORG</data>
-</node>
-<node id="PROF_1068">
-  <data key="d0">Professor 1068</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_37">
-  <data key="d0">Professor 37</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="ORG:Universidad Complutense de Madrid">
-  <data key="d0">Universidad Complutense de Madrid</data>
-  <data key="d1">ORG</data>
-</node>
-<node id="ORG:Universidad Autónoma De Madrid">
-  <data key="d0">Universidad Autónoma De Madrid</data>
-  <data key="d1">ORG</data>
-</node>
-<node id="LOC:France">
-  <data key="d0">France</data>
-  <data key="d1">LOC</data>
-</node>
-<node id="PROF_357">
-  <data key="d0">Professor 357</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_162">
-  <data key="d0">Professor 162</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="PROF_684">
-  <data key="d0">Professor 684</data>
-  <data key="d1">PROFESSOR</data>
-</node>
-<node id="ORG:Harvard University">
-  <data key="d0">Harvard University</data>
+<node id="ORG:IESE Business School">
+  <data key="d0">IESE Business School</data>
   <data key="d1">ORG</data>
 </node>
 <node id="EDU:M.A">
   <data key="d0">M.A</data>
   <data key="d1">EDU</data>
 </node>
-<node id="LOC:Portugal">
-  <data key="d0">Portugal</data>
-  <data key="d1">LOC</data>
+<node id="ORG:Universidad Pontificia Comillas">
+  <data key="d0">Universidad Pontificia Comillas</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="PROF_252">
+  <data key="d0">Professor 252</data>
+  <data key="d1">PROFESSOR</data>
 </node>
 <node id="PROF_483">
   <data key="d0">Professor 483</data>
   <data key="d1">PROFESSOR</data>
 </node>
-<node id="PROF_215">
-  <data key="d0">Professor 215</data>
+<node id="PROF_801">
+  <data key="d0">Professor 801</data>
   <data key="d1">PROFESSOR</data>
 </node>
-<node id="PROF_153">
-  <data key="d0">Professor 153</data>
+<node id="ORG:Academic Bac">
+  <data key="d0">Academic Bac</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="LOC:France">
+  <data key="d0">France</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="PROF_43">
+  <data key="d0">Professor 43</data>
   <data key="d1">PROFESSOR</data>
 </node>
-<node id="EDU:Ph.D">
-  <data key="d0">Ph.D</data>
+<node id="SUBJECT:Management">
+  <data key="d0">Management</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="ORG:Universidad Complutense de Madrid">
+  <data key="d0">Universidad Complutense de Madrid</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="PROF_1068">
+  <data key="d0">Professor 1068</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_357">
+  <data key="d0">Professor 357</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_37">
+  <data key="d0">Professor 37</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="ORG:Harvard University">
+  <data key="d0">Harvard University</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="PROF_684">
+  <data key="d0">Professor 684</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="EDU:B.A">
+  <data key="d0">B.A</data>
   <data key="d1">EDU</data>
 </node>
 <node id="SUBJECT:Economics">
   <data key="d0">Economics</data>
   <data key="d1">SUBJECT</data>
 </node>
-<node id="LOC:London">
-  <data key="d0">London</data>
+<node id="SUBJECT:Laws">
+  <data key="d0">Laws</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="LOC:Spain">
+  <data key="d0">Spain</data>
   <data key="d1">LOC</data>
 </node>
-<node id="ORG:Universidad Politécnica De Madrid">
-  <data key="d0">Universidad Politécnica De Madrid</data>
+<node id="PROF_862">
+  <data key="d0">Professor 862</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_647">
+  <data key="d0">Professor 647</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="EDU:MSc">
+  <data key="d0">MSc</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="PROF_162">
+  <data key="d0">Professor 162</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_153">
+  <data key="d0">Professor 153</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_367">
+  <data key="d0">Professor 367</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_1037">
+  <data key="d0">Professor 1037</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="EDU:LLM">
+  <data key="d0">LLM</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="ORG:Universidad Autónoma De Madrid">
+  <data key="d0">Universidad Autónoma De Madrid</data>
   <data key="d1">ORG</data>
 </node>
-<node id="ORG:IESE Business School">
-  <data key="d0">IESE Business School</data>
-  <data key="d1">ORG</data>
+<node id="PROF_1040">
+  <data key="d0">Professor 1040</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="PROF_984">
+  <data key="d0">Professor 984</data>
+  <data key="d1">PROFESSOR</data>
 </node>
 <node id="PROF_1045">
   <data key="d0">Professor 1045</data>
@@ -179,66 +151,58 @@
   <data key="d0">BSc</data>
   <data key="d1">EDU</data>
 </node>
-<node id="EDU:LLM">
-  <data key="d0">LLM</data>
+<node id="EDU:MBA">
+  <data key="d0">MBA</data>
   <data key="d1">EDU</data>
 </node>
-<node id="SUBJECT:Management">
-  <data key="d0">Management</data>
-  <data key="d1">SUBJECT</data>
+<node id="LOC:United States">
+  <data key="d0">United States</data>
+  <data key="d1">LOC</data>
 </node>
-<node id="EDU:LL.M">
-  <data key="d0">LL.M</data>
+<node id="EDU:Ph.D">
+  <data key="d0">Ph.D</data>
   <data key="d1">EDU</data>
 </node>
 <node id="EDU:M.Sc">
   <data key="d0">M.Sc</data>
   <data key="d1">EDU</data>
 </node>
-<node id="ORG:Academic Ba">
-  <data key="d0">Academic Ba</data>
-  <data key="d1">ORG</data>
-</node>
 <node id="EDU:PhD">
   <data key="d0">PhD</data>
   <data key="d1">EDU</data>
 </node>
-<edge source="PROF_339" target="ORG:Harvard University">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_339" target="EDU:M.Sc">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_339" target="EDU:MBA">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_339" target="EDU:Ph.D">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_339" target="LOC:London">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_339" target="LOC:Madrid">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_339" target="LOC:New York">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_339" target="LOC:Portugal">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_339" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
+<node id="EDU:Bachelor in Business Administration">
+  <data key="d0">Bachelor in Business Administration</data>
+  <data key="d1">EDU</data>
+</node>
+<node id="LOC:Germany">
+  <data key="d0">Germany</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="LOC:New York">
+  <data key="d0">New York</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="LOC:Portugal">
+  <data key="d0">Portugal</data>
+  <data key="d1">LOC</data>
+</node>
+<node id="PROF_339">
+  <data key="d0">Professor 339</data>
+  <data key="d1">PROFESSOR</data>
+</node>
+<node id="ORG:Academic Ba">
+  <data key="d0">Academic Ba</data>
+  <data key="d1">ORG</data>
+</node>
+<node id="SUBJECT:Business Administration">
+  <data key="d0">Business Administration</data>
+  <data key="d1">SUBJECT</data>
+</node>
+<node id="ORG:Universidad Politécnica De Madrid">
+  <data key="d0">Universidad Politécnica De Madrid</data>
+  <data key="d1">ORG</data>
+</node>
 <edge source="PROF_252" target="ORG:Academic Ba">
   <data key="d2">Studied at</data>
   <data key="d3">Studied at</data>
@@ -259,65 +223,21 @@
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
 </edge>
-<edge source="PROF_45" target="EDU:B.A">
+<edge source="PROF_483" target="EDU:PhD">
   <data key="d2">Has degree</data>
   <data key="d3">Has degree</data>
 </edge>
-<edge source="PROF_45" target="EDU:LL.M">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_45" target="SUBJECT:Laws">
+<edge source="PROF_483" target="SUBJECT:Business Administration">
   <data key="d2">Teaches</data>
   <data key="d3">Teaches</data>
 </edge>
-<edge source="PROF_45" target="ORG:Harvard University">
-  <data key="d2">Worked at</data>
-  <data key="d3">Worked at</data>
-</edge>
-<edge source="PROF_45" target="LOC:Spain">
+<edge source="PROF_483" target="LOC:Portugal">
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
 </edge>
-<edge source="PROF_862" target="ORG:Universidad Pontificia Comillas">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_862" target="EDU:Bachelor in Business Administration">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_862" target="EDU:MBA">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_862" target="SUBJECT:Business Administration">
-  <data key="d2">Teaches</data>
-  <data key="d3">Teaches</data>
-</edge>
-<edge source="PROF_862" target="LOC:London">
+<edge source="PROF_483" target="LOC:Spain">
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_862" target="LOC:Madrid">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_862" target="LOC:New York">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_862" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_862" target="LOC:United States">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_1040" target="EDU:PhD">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
 </edge>
 <edge source="PROF_801" target="ORG:IESE Business School">
   <data key="d2">Worked at</data>
@@ -335,34 +255,6 @@
   <data key="d2">Has degree</data>
   <data key="d3">Has degree</data>
 </edge>
-<edge source="PROF_367" target="ORG:Academic Ba">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_367" target="ORG:Universidad Politécnica De Madrid">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_367" target="EDU:MBA">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_367" target="SUBJECT:Business Administration">
-  <data key="d2">Teaches</data>
-  <data key="d3">Teaches</data>
-</edge>
-<edge source="PROF_367" target="LOC:Madrid">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_367" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_796" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
 <edge source="PROF_43" target="EDU:MBA">
   <data key="d2">Has degree</data>
   <data key="d3">Has degree</data>
@@ -374,30 +266,6 @@
 <edge source="PROF_43" target="EDU:PhD">
   <data key="d2">Has degree</data>
   <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_993" target="EDU:LL.M">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_993" target="SUBJECT:Laws">
-  <data key="d2">Teaches</data>
-  <data key="d3">Teaches</data>
-</edge>
-<edge source="PROF_993" target="LOC:Madrid">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_993" target="LOC:New York">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_993" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_993" target="LOC:United States">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
 </edge>
 <edge source="PROF_1068" target="ORG:IESE Business School">
   <data key="d2">Studied at</data>
@@ -422,18 +290,6 @@
 <edge source="PROF_1068" target="LOC:New York">
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_37" target="ORG:Universidad Complutense de Madrid">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_37" target="ORG:Universidad Pontificia Comillas">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_37" target="EDU:LLM">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
 </edge>
 <edge source="PROF_357" target="ORG:Academic Ba">
   <data key="d2">Studied at</data>
@@ -475,6 +331,94 @@
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
 </edge>
+<edge source="PROF_37" target="ORG:Universidad Complutense de Madrid">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_37" target="ORG:Universidad Pontificia Comillas">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_37" target="EDU:LLM">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_684" target="ORG:Academic Ba">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_684" target="ORG:Universidad Politécnica De Madrid">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_684" target="EDU:MBA">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_684" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_684" target="LOC:United States">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_862" target="ORG:Universidad Pontificia Comillas">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_862" target="EDU:Bachelor in Business Administration">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_862" target="EDU:MBA">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_862" target="SUBJECT:Business Administration">
+  <data key="d2">Teaches</data>
+  <data key="d3">Teaches</data>
+</edge>
+<edge source="PROF_862" target="LOC:London">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_862" target="LOC:Madrid">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_862" target="LOC:New York">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_862" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_862" target="LOC:United States">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_647" target="EDU:MBA">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_647" target="EDU:Ph.D">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_647" target="SUBJECT:Economics">
+  <data key="d2">Teaches</data>
+  <data key="d3">Teaches</data>
+</edge>
+<edge source="PROF_647" target="LOC:France">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_647" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
 <edge source="PROF_162" target="EDU:M.Sc">
   <data key="d2">Has degree</data>
   <data key="d3">Has degree</data>
@@ -499,62 +443,6 @@
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
 </edge>
-<edge source="PROF_684" target="ORG:Academic Ba">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_684" target="ORG:Universidad Politécnica De Madrid">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_684" target="EDU:MBA">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_684" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_684" target="LOC:United States">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_483" target="EDU:PhD">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_483" target="SUBJECT:Business Administration">
-  <data key="d2">Teaches</data>
-  <data key="d3">Teaches</data>
-</edge>
-<edge source="PROF_483" target="LOC:Portugal">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_483" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
-<edge source="PROF_215" target="ORG:Academic Bac">
-  <data key="d2">Studied at</data>
-  <data key="d3">Studied at</data>
-</edge>
-<edge source="PROF_215" target="EDU:LL.M">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_215" target="EDU:MBA">
-  <data key="d2">Has degree</data>
-  <data key="d3">Has degree</data>
-</edge>
-<edge source="PROF_215" target="SUBJECT:Laws">
-  <data key="d2">Teaches</data>
-  <data key="d3">Teaches</data>
-</edge>
-<edge source="PROF_215" target="LOC:Spain">
-  <data key="d2">Worked in</data>
-  <data key="d3">Worked in</data>
-</edge>
 <edge source="PROF_153" target="SUBJECT:Economics">
   <data key="d2">Teaches</data>
   <data key="d3">Teaches</data>
@@ -564,6 +452,74 @@
   <data key="d3">Teaches</data>
 </edge>
 <edge source="PROF_153" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_367" target="ORG:Academic Ba">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_367" target="ORG:Universidad Politécnica De Madrid">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_367" target="EDU:MBA">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_367" target="SUBJECT:Business Administration">
+  <data key="d2">Teaches</data>
+  <data key="d3">Teaches</data>
+</edge>
+<edge source="PROF_367" target="LOC:Madrid">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_367" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_1037" target="EDU:PhD">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_1037" target="LOC:Madrid">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_1037" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_1040" target="EDU:PhD">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_984" target="ORG:Universidad Complutense de Madrid">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_984" target="EDU:MBA">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_984" target="SUBJECT:Business Administration">
+  <data key="d2">Teaches</data>
+  <data key="d3">Teaches</data>
+</edge>
+<edge source="PROF_984" target="SUBJECT:Economics">
+  <data key="d2">Teaches</data>
+  <data key="d3">Teaches</data>
+</edge>
+<edge source="PROF_984" target="LOC:Madrid">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_984" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_984" target="LOC:United States">
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
 </edge>
@@ -584,6 +540,42 @@
   <data key="d3">Worked in</data>
 </edge>
 <edge source="PROF_1045" target="LOC:Spain">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_339" target="ORG:Harvard University">
+  <data key="d2">Studied at</data>
+  <data key="d3">Studied at</data>
+</edge>
+<edge source="PROF_339" target="EDU:M.Sc">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_339" target="EDU:MBA">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_339" target="EDU:Ph.D">
+  <data key="d2">Has degree</data>
+  <data key="d3">Has degree</data>
+</edge>
+<edge source="PROF_339" target="LOC:London">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_339" target="LOC:Madrid">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_339" target="LOC:New York">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_339" target="LOC:Portugal">
+  <data key="d2">Worked in</data>
+  <data key="d3">Worked in</data>
+</edge>
+<edge source="PROF_339" target="LOC:Spain">
   <data key="d2">Worked in</data>
   <data key="d3">Worked in</data>
 </edge>
